@@ -1,0 +1,21 @@
+body {
+text-align:center ;
+    background: pink;
+
+}
+
+.maindiv{
+    font-family:sans-serif ;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copyrightfooter{
+    position:fixed;
+    color: springgreen;
+    width:100%;
+background-color: rgb(255, 0, 43);
+ line-height: 3; 
+ text-align: center;
+ bottom:0 ;
+    
+}
